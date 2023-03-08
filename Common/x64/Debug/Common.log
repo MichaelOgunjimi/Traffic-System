@@ -1,0 +1,20 @@
+﻿  Install OSG
+  osg-exists
+  osg-data-exists
+  Common.vcxproj -> C:\Users\michaelO\Desktop\ComputerGraphicsAssignment\x64\Debug\Common.lib
+  Update include files
+  raaCF debuglib Common ..\OpenSceneGraph-3.6.5-VC2022-64-Debug
+  Copy Headers to ..\OpenSceneGraph-3.6.5-VC2022-64-Debug\include\Common
+  A subdirectory or file ..\OpenSceneGraph-3.6.5-VC2022-64-Debug\include\Common already exists.
+  AssetLibrary.h
+  BoundCalculator.h
+  Facade.h
+  FacadeFactory.h
+  FacadeFactoryA.h
+  FacadeManufactory.h
+  NodeFinder.h
+  NodeFinderT.h
+  Printer.h
+          9 file(s) copied.
+          1 file(s) copied.
+  raaCF debuglib Complete

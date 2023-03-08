@@ -1,0 +1,13 @@
+﻿  Assignment.vcxproj -> C:\Users\michaelO\Desktop\ComputerGraphicsAssignment\x64\Debug\Assignment.lib
+  raaCF debuglib Assignment ..\OpenSceneGraph-3.6.5-VC2022-64-Debug
+  Copy Headers to ..\OpenSceneGraph-3.6.5-VC2022-64-Debug\include\Assignment
+  A subdirectory or file ..\OpenSceneGraph-3.6.5-VC2022-64-Debug\include\Assignment already exists.
+  ControllableTrafficLightFacade.h
+  ControllableTrafficLightFacadeFactory.h
+  Example.h
+  Geometry.h
+  RoadTileLightsFacade.h
+  RoadTileLightsFacadeFactory.h
+          6 file(s) copied.
+          1 file(s) copied.
+  raaCF debuglib Complete
